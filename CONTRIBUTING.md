@@ -1,0 +1,1 @@
+<html><body>You are being <a href="https://raw.githubusercontent.com/Homebrew/homebrew-core/master/CONTRIBUTING.md">redirected</a>.</body></html>
