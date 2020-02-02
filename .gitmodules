@@ -1,0 +1,9 @@
+[submodule "Submodules/drolando-deadsnakes"]
+	path = Submodules/drolando-deadsnakes
+	url = https://github.com/drolando/homebrew-deadsnakes.git
+[submodule "Submodules/homebrew-core"]
+	path = Submodules/homebrew-core
+	url = https://github.com/Homebrew/homebrew-core.git
+[submodule "Submodules/pyenv"]
+	path = Submodules/pyenv
+	url = https://github.com/pyenv/pyenv.git

@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
+        "Cython",
         "OSX's",
         "Xcode",
         "Xlib",
@@ -11,18 +12,23 @@
         "dyld",
         "dylib",
         "gdbm",
+        "gotos",
         "gsub",
         "inreplace",
         "isysroot",
+        "jython",
         "ldflags",
+        "miniconda",
         "mkpath",
         "pydoc",
         "pyenchant",
+        "rsplit",
         "sqlite",
         "superenv",
         "sysconfigdata",
         "sysroot",
         "tkinter",
         "unversioned"
-    ]
+    ],
+    "python.pythonPath": "Generators/.venv/bin/python"
 }

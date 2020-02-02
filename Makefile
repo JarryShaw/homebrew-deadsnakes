@@ -16,3 +16,9 @@ init:
 	mkdir -p .github/ISSUE_TEMPLATE
 	curl --output .github/ISSUE_TEMPLATE/Reproducible-Bug-Report.md \
 	    https://raw.githubusercontent.com/Homebrew/homebrew-core/master/.github/ISSUE_TEMPLATE/Reproducible-Bug-Report.md
+
+pipenv:
+	pipenv run python -m pip install -U pip setuptools wheel
+	pipenv update
+	pipenv install --dev
+	pipenv clean
