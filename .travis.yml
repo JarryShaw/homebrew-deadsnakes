@@ -17,14 +17,14 @@ install:
     # Make sure python is installed
     - brew list python@2 || brew install python@2
     - brew outdated python@2 || brew upgrade python@2
-    - brew install Formula/python27@16.rb
+    - brew install Formula/python@2.7.17.rb
     # Make sure python3 is installed
     - brew list python || brew install python
     - brew outdated python || brew upgrade python
-    - brew install Formula/python37@3.rb
-    - brew install Formula/python37@4.rb
+    - brew install Formula/python@3.7.6.rb
+    - brew install Formula/python@3.8.1.rb
 
 script:
-    - brew test Formula/python27@16.rb
-    - brew test Formula/python37@3.rb
-    - brew test Formula/python37@4.rb
+    - brew test Formula/python@2.7.17.rb
+    - brew test Formula/python@3.7.6.rb
+    - brew test Formula/python@3.8.1.rb

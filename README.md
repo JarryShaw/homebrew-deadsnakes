@@ -1,5 +1,7 @@
 # Deadsnakes for Homebrew
 
+> NB: the formulae and casks included in the tap is **NOT** guaranteed compliant with current version of Homebrew.
+
 ## How do I install these formulae?
 `brew install jarryshaw/deadsnakes/<formula>`
 
@@ -22,8 +24,31 @@ brew cask install https://raw.githubusercontent.com/jarryshaw/homebrew-deadsnake
 
 | Version tag | Formula name                                       |
 | :---------- | :------------------------------------------------- |
+| `2.6.3`     | `python@2.6.3`                                     |
+| `2.6.4`     | `python@2.6.4`                                     |
+| `2.6.5`     | `python@2.6.5`, `python@2.6`                       |
+| `2.7.1`     | `python@2.7.1`                                     |
+| `2.7.2`     | `python@2.7.2`                                     |
+| `2.7.3`     | `python@2.7.3`                                     |
+| `2.7.4`     | `python@2.7.4`                                     |
+| `2.7.5`     | `python@2.7.5`                                     |
+| `2.7.6`     | `python@2.7.6`                                     |
+| `2.7.7`     | `python@2.7.7`                                     |
+| `2.7.8`     | `python@2.7.8`                                     |
+| `2.7.9`     | `python@2.7.9`                                     |
+| `2.7.10`    | `python@2.7.10`                                    |
+| `2.7.11`    | `python@2.7.11`                                    |
+| `2.7.12`    | `python@2.7.12`                                    |
+| `2.7.13`    | `python@2.7.13`                                    |
+| `2.7.14`    | `python@2.7.14`                                    |
+| `2.7.15`    | `python@2.7.15`                                    |
 | `2.7.16`    | `python@2.7.16`                                    |
 | `2.7.17`    | `python@2.7.17`, `python@2.7`, `python@2`          |
+| `3.6.4`     | `python@3.6.4`                                     |
+| `3.6.5`     | `python@3.6.5`, `python@3.6`                       |
+| `3.7.0`     | `python@3.7.0`                                     |
+| `3.7.1`     | `python@3.7.1`                                     |
+| `3.7.2`     | `python@3.7.2`                                     |
 | `3.7.3`     | `python@3.7.3`                                     |
 | `3.7.4`     | `python@3.7.4`                                     |
 | `3.7.5`     | `python@3.7.5`                                     |

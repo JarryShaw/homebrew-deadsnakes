@@ -2017,6 +2017,88 @@
           "rebuild": null,
           "revision": null,
           "version": "2.7.16"
+        },
+        {
+          "checksum": "3df2279165039682443cd67c309ac8305fa1d9998fa0e72f76459a34d5bd3f94",
+          "formula": "python",
+          "macos": "catalina",
+          "rebuild": null,
+          "revision": "1",
+          "version": "2.7.16"
+        },
+        {
+          "checksum": "a217d207fe021caf3244ffc79a41026f469ff6299d8a7210bb241fc121421584",
+          "formula": "python",
+          "macos": "high_sierra",
+          "rebuild": null,
+          "revision": "1",
+          "version": "2.7.16"
+        },
+        {
+          "checksum": "7e40affe699334a2e0bd8fdb19eb142aab5dedfccb62a0d2c47915f7cf25bafd",
+          "formula": "python",
+          "macos": "mojave",
+          "rebuild": null,
+          "revision": "1",
+          "version": "2.7.16"
+        },
+        {
+          "checksum": "58f98be1c91883ed02b8f77b1c0eda6c22743fb6743df221e82e93807cf21ac0",
+          "formula": "python",
+          "macos": "sierra",
+          "rebuild": null,
+          "revision": "1",
+          "version": "2.7.16"
+        }
+      ],
+      "2.7.17": [
+        {
+          "checksum": "02fe8d8230baeffb31732225db94836a2882f08ac8effdb199c6be2cddcd2060",
+          "formula": "python",
+          "macos": "catalina",
+          "rebuild": null,
+          "revision": null,
+          "version": "2.7.17"
+        },
+        {
+          "checksum": "23d30153f638dae6d15f1bb0f660994316283a786c197d1bec88a3082c229d00",
+          "formula": "python",
+          "macos": "high_sierra",
+          "rebuild": null,
+          "revision": null,
+          "version": "2.7.17"
+        },
+        {
+          "checksum": "2c23910d15db8e309a219d773cd55845d3782faac249aae67808c67aabcaa9fc",
+          "formula": "python",
+          "macos": "mojave",
+          "rebuild": null,
+          "revision": null,
+          "version": "2.7.17"
+        },
+        {
+          "checksum": "accfaa922708f00afb69ab230199f96e6ecdddd248a1eca586ce1e5e5cfd732b",
+          "formula": "python",
+          "macos": "catalina",
+          "rebuild": null,
+          "revision": "1",
+          "version": "2.7.17"
+        },
+        {
+          "checksum": "cfd5c6eeac37065d19f527bb0798a9caf1928bab3340cd545224861a3c82f219",
+          "formula": "python",
+          "macos": "high_sierra",
+          "rebuild": null,
+          "revision": "1",
+          "version": "2.7.17"
+        },
+        {
+          "checksum": "54d3351d6be8268b2f5017894dcc8e083811dfa3812bdb9f79f989873b9a4542",
+          "formula": "python",
+          "macos": "mojave",
+          "rebuild": null,
+          "revision": "1",
+          "version": "2.7.17"
         }
       ],
       "3.6.3": [
@@ -2705,6 +2787,190 @@
           "rebuild": null,
           "revision": null,
           "version": "3.7.4"
+        },
+        {
+          "checksum": "9440ef937392b1c965f552ae72a63973c604f4c4b563891477423d97ff5a1c45",
+          "formula": "python",
+          "macos": "catalina",
+          "rebuild": "1",
+          "revision": "1",
+          "version": "3.7.4"
+        },
+        {
+          "checksum": "d3f6d7105952f676e187c9cb7a8e0e4d78a5d028e90df58f181a4eb710e71f9a",
+          "formula": "python",
+          "macos": "catalina",
+          "rebuild": null,
+          "revision": "1",
+          "version": "3.7.4"
+        },
+        {
+          "checksum": "e7f28679d42fe0dcf602cef5d1a45754697954e1d012768a9b72b5db234856f2",
+          "formula": "python",
+          "macos": "high_sierra",
+          "rebuild": "1",
+          "revision": "1",
+          "version": "3.7.4"
+        },
+        {
+          "checksum": "5e8e399e1a2a00754bff73c7605ff381094f3346351d2a6ef4fc1c798e6ebe10",
+          "formula": "python",
+          "macos": "high_sierra",
+          "rebuild": null,
+          "revision": "1",
+          "version": "3.7.4"
+        },
+        {
+          "checksum": "387e32b735f3273bee16e8d8d20686ac40bd81e642a7e3d13cd21966698a4b77",
+          "formula": "python",
+          "macos": "mojave",
+          "rebuild": "1",
+          "revision": "1",
+          "version": "3.7.4"
+        },
+        {
+          "checksum": "a1283e332d0754e450a7e46a1e1b0df2f1ba6b18a9540db9b2da07bb6b7b1ec1",
+          "formula": "python",
+          "macos": "mojave",
+          "rebuild": null,
+          "revision": "1",
+          "version": "3.7.4"
+        },
+        {
+          "checksum": "8875dc7112c3a98f6423d00915b4ca5242f18965463c0c2e266c7e511ddec026",
+          "formula": "python",
+          "macos": "sierra",
+          "rebuild": null,
+          "revision": "1",
+          "version": "3.7.4"
+        }
+      ],
+      "3.7.5": [
+        {
+          "checksum": "623d2a1110674974c0ea3ff0498c1ac865b858ba5293bdc29f3ce4dbd421fd42",
+          "formula": "python",
+          "macos": "catalina",
+          "rebuild": null,
+          "revision": null,
+          "version": "3.7.5"
+        },
+        {
+          "checksum": "32e080b97e0075d2563c1f454e6925dbdd57ad683b857fc2a42e46a0a30959f6",
+          "formula": "python",
+          "macos": "high_sierra",
+          "rebuild": null,
+          "revision": null,
+          "version": "3.7.5"
+        },
+        {
+          "checksum": "bcbdc3612a10d06facca7ec9499265731d530c8273b1a2dc28f16258d4410552",
+          "formula": "python",
+          "macos": "mojave",
+          "rebuild": null,
+          "revision": null,
+          "version": "3.7.5"
+        }
+      ],
+      "3.7.6": [
+        {
+          "checksum": "f9053f7d2b371b6c1960e790be5603f8662d65f44bfdfe2c3854ac287f10d705",
+          "formula": "python",
+          "macos": "catalina",
+          "rebuild": null,
+          "revision": null,
+          "version": "3.7.6"
+        },
+        {
+          "checksum": "853a5c89053fa747daf1779a515df60648b56968317aa8865dfdd058f1520bad",
+          "formula": "python",
+          "macos": "high_sierra",
+          "rebuild": null,
+          "revision": null,
+          "version": "3.7.6"
+        },
+        {
+          "checksum": "011f76aac1362a7df8618ec10751a87b3745afccabfdf5e354f9980f04e9b064",
+          "formula": "python",
+          "macos": "mojave",
+          "rebuild": null,
+          "revision": null,
+          "version": "3.7.6"
+        },
+        {
+          "checksum": "3871ef8b53270576c46489ae397f245b84772c405085238790cf5faa1853b33a",
+          "formula": "python",
+          "macos": "catalina",
+          "rebuild": null,
+          "revision": "1",
+          "version": "3.7.6"
+        },
+        {
+          "checksum": "3504f29ae0366d08fc025cfe2885cd2e685f74ab041a341a393d3b6967f139d7",
+          "formula": "python",
+          "macos": "high_sierra",
+          "rebuild": null,
+          "revision": "1",
+          "version": "3.7.6"
+        },
+        {
+          "checksum": "643d627c2b4fc03a3286c397d299284ef8ce2d4a832737e41175f297d4f0862e",
+          "formula": "python",
+          "macos": "mojave",
+          "rebuild": null,
+          "revision": "1",
+          "version": "3.7.6"
+        }
+      ],
+      "3.8.0": [
+        {
+          "checksum": "72c20e5109fea0ab0295d4199b214317c11a64b86f52a999094d3479eed15d7b",
+          "formula": "python",
+          "macos": "catalina",
+          "rebuild": null,
+          "revision": null,
+          "version": "3.8.0"
+        },
+        {
+          "checksum": "b5e18adb673fce8cc5261f7614c723369bc74188169c6801344166911a7fb0cd",
+          "formula": "python",
+          "macos": "high_sierra",
+          "rebuild": null,
+          "revision": null,
+          "version": "3.8.0"
+        },
+        {
+          "checksum": "8b80453389d00237b65796ef5ab3fc240204ee4e77169dd8c606ecf163901942",
+          "formula": "python",
+          "macos": "mojave",
+          "rebuild": null,
+          "revision": null,
+          "version": "3.8.0"
+        }
+      ],
+      "3.8.1": [
+        {
+          "checksum": "f7150810ab3337f74d8cd5c4d39e3e62e37242f041a45ae01bcba641a3467de8",
+          "formula": "python",
+          "macos": "catalina",
+          "rebuild": null,
+          "revision": null,
+          "version": "3.8.1"
+        },
+        {
+          "checksum": "3794d447c33b0e83a7f43c1597d3ba42280f104b14f837393dbb34cc265fd518",
+          "formula": "python",
+          "macos": "high_sierra",
+          "rebuild": null,
+          "revision": null,
+          "version": "3.8.1"
+        },
+        {
+          "checksum": "585780b529c01631d0382e0926f4588a743464a2597c288eeb806c18dd5048b6",
+          "formula": "python",
+          "macos": "mojave",
+          "rebuild": null,
+          "revision": null,
+          "version": "3.8.1"
         }
       ]
     }

@@ -1,2 +1,2 @@
-git rev-list HEAD -- <file>
-git show <revision>:<file>
+# git rev-list HEAD -- <file>
+# git show <revision>:<file>
